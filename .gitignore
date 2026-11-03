@@ -1,0 +1,4 @@
+node_modules/
+solver
+solver.exe
+npm-debug.log*
